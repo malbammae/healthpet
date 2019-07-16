@@ -1,215 +1,215 @@
 #EXTM3U
-#EXTINF:0, channel-id="004"  tvg-id="2314" tvg-name="Discovery Kids",Discovery Kids
+#EXTINF:-1, channel-id="004"  tvg-id="2314" tvg-name="Discovery Kids",Discovery Kids
 http://live.entel.cl:80/2314/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="006"  tvg-id="2343" tvg-name="Disney Junior",Disney Junior
+#EXTINF:-1, channel-id="006"  tvg-id="2343" tvg-name="Disney Junior",Disney Junior
 http://live.entel.cl:80/2343/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="007"  tvg-id="2266" tvg-name="Baby Tv",Baby Tv
+#EXTINF:-1, channel-id="007"  tvg-id="2266" tvg-name="Baby Tv",Baby Tv
 http://live.entel.cl:80/2266/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="008"  tvg-id="2347" tvg-name="Cartoon Network ",Cartoon Network 
+#EXTINF:-1, channel-id="008"  tvg-id="2347" tvg-name="Cartoon Network ",Cartoon Network 
 http://live.entel.cl:80/2347/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="009"  tvg-id="2346" tvg-name="Nat Geo Kids",Nat Geo Kids
+#EXTINF:-1, channel-id="009"  tvg-id="2346" tvg-name="Nat Geo Kids",Nat Geo Kids
 http://live.entel.cl:80/2346/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="010"  tvg-id="2316" tvg-name="Disney Channel",Disney Channel
+#EXTINF:-1, channel-id="010"  tvg-id="2316" tvg-name="Disney Channel",Disney Channel
 http://live.entel.cl:80/2316/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="012"  tvg-id="2239" tvg-name="Disney XD",Disney XD
+#EXTINF:-1, channel-id="012"  tvg-id="2239" tvg-name="Disney XD",Disney XD
 http://live.entel.cl:80/2239/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="013"  tvg-id="2251" tvg-name="Boomerang",Boomerang
+#EXTINF:-1, channel-id="013"  tvg-id="2251" tvg-name="Boomerang",Boomerang
 http://live.entel.cl:80/2251/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="015"  tvg-id="2267" tvg-name="ToonCast",ToonCast
+#EXTINF:-1, channel-id="015"  tvg-id="2267" tvg-name="ToonCast",ToonCast
 http://live.entel.cl:80/2267/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="017"  tvg-id="2236" tvg-name="Discovery Kids",Discovery Kids
+#EXTINF:-1, channel-id="017"  tvg-id="2236" tvg-name="Discovery Kids",Discovery Kids
 http://live.entel.cl:80/2236/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="018"  tvg-id="3181" tvg-name="Nat Geo Kids",Nat Geo Kids
+#EXTINF:-1, channel-id="018"  tvg-id="3181" tvg-name="Nat Geo Kids",Nat Geo Kids
 http://live.entel.cl:80/3181/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="019"  tvg-id="2253" tvg-name="Disney Channel",Disney Channel
+#EXTINF:-1, channel-id="019"  tvg-id="2253" tvg-name="Disney Channel",Disney Channel
 http://live.entel.cl:80/2253/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="024"  tvg-id="2342" tvg-name="Discovery HD",Discovery HD
+#EXTINF:-1, channel-id="024"  tvg-id="2342" tvg-name="Discovery HD",Discovery HD
 http://live.entel.cl:80/2342/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="025"  tvg-id="2322" tvg-name="Animal Planet",Animal Planet
+#EXTINF:-1, channel-id="025"  tvg-id="2322" tvg-name="Animal Planet",Animal Planet
 http://live.entel.cl:80/2322/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="026"  tvg-id="2274" tvg-name="Nat Geo WIld",Nat Geo WIld
+#EXTINF:-1, channel-id="026"  tvg-id="2274" tvg-name="Nat Geo WIld",Nat Geo WIld
 http://live.entel.cl:80/2274/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="027"  tvg-id="3030" tvg-name="National Geographic",National Geographic
+#EXTINF:-1, channel-id="027"  tvg-id="3030" tvg-name="National Geographic",National Geographic
 http://live.entel.cl:80/3030/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="028"  tvg-id="2340" tvg-name="History Channel 2",History Channel 2
+#EXTINF:-1, channel-id="028"  tvg-id="2340" tvg-name="History Channel 2",History Channel 2
 http://live.entel.cl:80/2340/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="032"  tvg-id="2275" tvg-name="History HD",History HD
+#EXTINF:-1, channel-id="032"  tvg-id="2275" tvg-name="History HD",History HD
 http://live.entel.cl:80/2275/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="034"  tvg-id="2255" tvg-name="Discovery Civilization",Discovery Civilization
+#EXTINF:-1, channel-id="034"  tvg-id="2255" tvg-name="Discovery Civilization",Discovery Civilization
 http://live.entel.cl:80/2255/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="036"  tvg-id="2256" tvg-name="Discovery Science",Discovery Science
+#EXTINF:-1, channel-id="036"  tvg-id="2256" tvg-name="Discovery Science",Discovery Science
 http://live.entel.cl:80/2256/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="037"  tvg-id="2269" tvg-name="Discovery Theater ",Discovery Theater 
+#EXTINF:-1, channel-id="037"  tvg-id="2269" tvg-name="Discovery Theater ",Discovery Theater 
 http://live.entel.cl:80/2269/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="040"  tvg-id="2235" tvg-name="Film & Aarts",Film & Aarts
+#EXTINF:-1, channel-id="040"  tvg-id="2235" tvg-name="Film & Aarts",Film & Aarts
 http://live.entel.cl:80/2235/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="041"  tvg-id="2238" tvg-name="EWTN",EWTN
+#EXTINF:-1, channel-id="041"  tvg-id="2238" tvg-name="EWTN",EWTN
 http://live.entel.cl:80/2238/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="042"  tvg-id="2228" tvg-name="Discovery",Discovery
+#EXTINF:-1, channel-id="042"  tvg-id="2228" tvg-name="Discovery",Discovery
 http://live.entel.cl:80/2228/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="043"  tvg-id="2259" tvg-name="NatGeo",NatGeo
+#EXTINF:-1, channel-id="043"  tvg-id="2259" tvg-name="NatGeo",NatGeo
 http://live.entel.cl:80/2259/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="048"  tvg-id="2300" tvg-name="RT",RT
+#EXTINF:-1, channel-id="048"  tvg-id="2300" tvg-name="RT",RT
 http://live.entel.cl:80/2300/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="050"  tvg-id="2270" tvg-name="CNN ESP",CNN ESP
+#EXTINF:-1, channel-id="050"  tvg-id="2270" tvg-name="CNN ESP",CNN ESP
 http://live.entel.cl:80/2270/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="052"  tvg-id="2294" tvg-name="Canal 24 Horas",Canal 24 Horas
+#EXTINF:-1, channel-id="052"  tvg-id="2294" tvg-name="Canal 24 Horas",Canal 24 Horas
 http://live.entel.cl:80/2294/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="054"  tvg-id="2285" tvg-name="CNN Chile",CNN Chile
+#EXTINF:-1, channel-id="054"  tvg-id="2285" tvg-name="CNN Chile",CNN Chile
 http://live.entel.cl:80/2285/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="062"  tvg-id="2335" tvg-name="La red",La red
+#EXTINF:-1, channel-id="062"  tvg-id="2335" tvg-name="La red",La red
 http://live.entel.cl:80/2335/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="064"  tvg-id="2327" tvg-name="Tv+",Tv+
+#EXTINF:-1, channel-id="064"  tvg-id="2327" tvg-name="Tv+",Tv+
 http://live.entel.cl:80/2327/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="064"  tvg-id="2283" tvg-name="TVN",TVN
+#EXTINF:-1, channel-id="064"  tvg-id="2283" tvg-name="TVN",TVN
 http://live.entel.cl:80/2283/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="065"  tvg-id="2326" tvg-name="Mega",Mega
+#EXTINF:-1, channel-id="065"  tvg-id="2326" tvg-name="Mega",Mega
 http://live.entel.cl:80/2326/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="066"  tvg-id="2321" tvg-name="CHV",CHV
+#EXTINF:-1, channel-id="066"  tvg-id="2321" tvg-name="CHV",CHV
 http://live.entel.cl:80/2321/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="067"  tvg-id="2293" tvg-name="Canal 13",Canal 13
+#EXTINF:-1, channel-id="067"  tvg-id="2293" tvg-name="Canal 13",Canal 13
 http://live.entel.cl:80/2293/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="070"  tvg-id="2348" tvg-name="13 C",13 C
+#EXTINF:-1, channel-id="070"  tvg-id="2348" tvg-name="13 C",13 C
 http://live.entel.cl:80/2348/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="079"  tvg-id="2306" tvg-name="Investigation Discovery",Investigation Discovery
+#EXTINF:-1, channel-id="079"  tvg-id="2306" tvg-name="Investigation Discovery",Investigation Discovery
 http://live.entel.cl:80/2306/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="081"  tvg-id="2290" tvg-name="Warner",Warner
+#EXTINF:-1, channel-id="081"  tvg-id="2290" tvg-name="Warner",Warner
 http://live.entel.cl:80/2290/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="083"  tvg-id="2246" tvg-name="Fox",Fox
+#EXTINF:-1, channel-id="083"  tvg-id="2246" tvg-name="Fox",Fox
 http://live.entel.cl:80/2246/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="085"  tvg-id="2280" tvg-name="Sony",Sony
+#EXTINF:-1, channel-id="085"  tvg-id="2280" tvg-name="Sony",Sony
 http://live.entel.cl:80/2280/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="087"  tvg-id="2291" tvg-name="AXN",AXN
+#EXTINF:-1, channel-id="087"  tvg-id="2291" tvg-name="AXN",AXN
 http://live.entel.cl:80/2291/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="088"  tvg-id="2281" tvg-name="Universal",Universal
+#EXTINF:-1, channel-id="088"  tvg-id="2281" tvg-name="Universal",Universal
 http://live.entel.cl:80/2281/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="090"  tvg-id="2339" tvg-name="TNT Series",TNT Series
+#EXTINF:-1, channel-id="090"  tvg-id="2339" tvg-name="TNT Series",TNT Series
 http://live.entel.cl:80/2339/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="093"  tvg-id="2353" tvg-name="FX HD",FX HD
+#EXTINF:-1, channel-id="093"  tvg-id="2353" tvg-name="FX HD",FX HD
 http://live.entel.cl:80/2353/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="095"  tvg-id="2276" tvg-name="Tru Tv",Tru Tv
+#EXTINF:-1, channel-id="095"  tvg-id="2276" tvg-name="Tru Tv",Tru Tv
 http://live.entel.cl:80/2276/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="099"  tvg-id="2279" tvg-name="A&E",A&E
+#EXTINF:-1, channel-id="099"  tvg-id="2279" tvg-name="A&E",A&E
 http://live.entel.cl:80/2279/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="102"  tvg-id="3025" tvg-name="TBS",TBS
+#EXTINF:-1, channel-id="102"  tvg-id="3025" tvg-name="TBS",TBS
 http://live.entel.cl:80/3025/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="103"  tvg-id="2260" tvg-name="Studio Universal",Studio Universal
+#EXTINF:-1, channel-id="103"  tvg-id="2260" tvg-name="Studio Universal",Studio Universal
 http://live.entel.cl:80/2260/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="104"  tvg-id="3180" tvg-name="HBO",HBO
+#EXTINF:-1, channel-id="104"  tvg-id="3180" tvg-name="HBO",HBO
 http://live.entel.cl:80/3180/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="107"  tvg-id="2277" tvg-name="CineCanal",CineCanal
+#EXTINF:-1, channel-id="107"  tvg-id="2277" tvg-name="CineCanal",CineCanal
 http://live.entel.cl:80/2277/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="109"  tvg-id="2278" tvg-name="TNT HD",TNT HD
+#EXTINF:-1, channel-id="109"  tvg-id="2278" tvg-name="TNT HD",TNT HD
 http://live.entel.cl:80/2278/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="110"  tvg-id="2263" tvg-name="TCM",TCM
+#EXTINF:-1, channel-id="110"  tvg-id="2263" tvg-name="TCM",TCM
 http://live.entel.cl:80/2263/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="111"  tvg-id="2349" tvg-name="AMC",AMC
+#EXTINF:-1, channel-id="111"  tvg-id="2349" tvg-name="AMC",AMC
 http://live.entel.cl:80/2349/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="112"  tvg-id="2354" tvg-name="Cinemax",Cinemax
+#EXTINF:-1, channel-id="112"  tvg-id="2354" tvg-name="Cinemax",Cinemax
 http://live.entel.cl:80/2354/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="115"  tvg-id="2328" tvg-name="FXM",FXM
+#EXTINF:-1, channel-id="115"  tvg-id="2328" tvg-name="FXM",FXM
 http://live.entel.cl:80/2328/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="116"  tvg-id="2268" tvg-name="ISAT",ISAT
+#EXTINF:-1, channel-id="116"  tvg-id="2268" tvg-name="ISAT",ISAT
 http://live.entel.cl:80/2268/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="119"  tvg-id="2337" tvg-name="Space",Space
+#EXTINF:-1, channel-id="119"  tvg-id="2337" tvg-name="Space",Space
 http://live.entel.cl:80/2337/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="122"  tvg-id="2230" tvg-name="Golden",Golden
+#EXTINF:-1, channel-id="122"  tvg-id="2230" tvg-name="Golden",Golden
 http://live.entel.cl:80/2230/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="124"  tvg-id="2233" tvg-name="ID",ID
+#EXTINF:-1, channel-id="124"  tvg-id="2233" tvg-name="ID",ID
 http://live.entel.cl:80/2233/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="126"  tvg-id="3031" tvg-name="Fox Channel",Fox Channel
+#EXTINF:-1, channel-id="126"  tvg-id="3031" tvg-name="Fox Channel",Fox Channel
 http://live.entel.cl:80/3031/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="128"  tvg-id="2271" tvg-name="FX",FX
+#EXTINF:-1, channel-id="128"  tvg-id="2271" tvg-name="FX",FX
 http://live.entel.cl:80/2271/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="132"  tvg-id="2295" tvg-name="CineCanal",CineCanal
+#EXTINF:-1, channel-id="132"  tvg-id="2295" tvg-name="CineCanal",CineCanal
 http://live.entel.cl:80/2295/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="133"  tvg-id="2317" tvg-name="FXM",FXM
+#EXTINF:-1, channel-id="133"  tvg-id="2317" tvg-name="FXM",FXM
 http://live.entel.cl:80/2317/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="150"  tvg-id="2334" tvg-name="TLnovelas",TLnovelas
+#EXTINF:-1, channel-id="150"  tvg-id="2334" tvg-name="TLnovelas",TLnovelas
 http://live.entel.cl:80/2334/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="151"  tvg-id="2237" tvg-name="Las estrellas",Las estrellas
+#EXTINF:-1, channel-id="151"  tvg-id="2237" tvg-name="Las estrellas",Las estrellas
 http://live.entel.cl:80/2237/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="171"  tvg-id="3027" tvg-name="H&H Discovery",H&H Discovery
+#EXTINF:-1, channel-id="171"  tvg-id="3027" tvg-name="H&H Discovery",H&H Discovery
 http://live.entel.cl:80/3027/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="172"  tvg-id="2250" tvg-name="TLC",TLC
+#EXTINF:-1, channel-id="172"  tvg-id="2250" tvg-name="TLC",TLC
 http://live.entel.cl:80/2250/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="173"  tvg-id="2361" tvg-name="Discovery World",Discovery World
+#EXTINF:-1, channel-id="173"  tvg-id="2361" tvg-name="Discovery World",Discovery World
 http://live.entel.cl:80/2361/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="174"  tvg-id="2252" tvg-name="E!",E!
+#EXTINF:-1, channel-id="174"  tvg-id="2252" tvg-name="E!",E!
 http://live.entel.cl:80/2252/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="176"  tvg-id="3175" tvg-name="Fox Life",Fox Life
+#EXTINF:-1, channel-id="176"  tvg-id="3175" tvg-name="Fox Life",Fox Life
 http://live.entel.cl:80/3175/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="178"  tvg-id="2356" tvg-name="Gourmet",Gourmet
+#EXTINF:-1, channel-id="178"  tvg-id="2356" tvg-name="Gourmet",Gourmet
 http://live.entel.cl:80/2356/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="182"  tvg-id="2341" tvg-name="Life Time",Life Time
+#EXTINF:-1, channel-id="182"  tvg-id="2341" tvg-name="Life Time",Life Time
 http://live.entel.cl:80/2341/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="185"  tvg-id="3028" tvg-name="Discovery H&H",Discovery H&H
+#EXTINF:-1, channel-id="185"  tvg-id="3028" tvg-name="Discovery H&H",Discovery H&H
 http://live.entel.cl:80/3028/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="186"  tvg-id="2292" tvg-name="Fox Life",Fox Life
+#EXTINF:-1, channel-id="186"  tvg-id="2292" tvg-name="Fox Life",Fox Life
 http://live.entel.cl:80/2292/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="200"  tvg-id="2237" tvg-name="HTV",HTV
+#EXTINF:-1, channel-id="200"  tvg-id="2237" tvg-name="HTV",HTV
 http://live.entel.cl:80/2237/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="207"  tvg-id="2360" tvg-name="Discovery Turbo",Discovery Turbo
+#EXTINF:-1, channel-id="207"  tvg-id="2360" tvg-name="Discovery Turbo",Discovery Turbo
 http://live.entel.cl:80/2360/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="210"  tvg-id="2231" tvg-name="Fox Sport",Fox Sport
+#EXTINF:-1, channel-id="210"  tvg-id="2231" tvg-name="Fox Sport",Fox Sport
 http://live.entel.cl:80/2231/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="211"  tvg-id="2257" tvg-name="Fox Sport 3",Fox Sport 3
+#EXTINF:-1, channel-id="211"  tvg-id="2257" tvg-name="Fox Sport 3",Fox Sport 3
 http://live.entel.cl:80/2257/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="212"  tvg-id="2355" tvg-name="ESPN",ESPN
+#EXTINF:-1, channel-id="212"  tvg-id="2355" tvg-name="ESPN",ESPN
 http://live.entel.cl:80/2355/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="213"  tvg-id="2350" tvg-name="ESPN+",ESPN+
+#EXTINF:-1, channel-id="213"  tvg-id="2350" tvg-name="ESPN+",ESPN+
 http://live.entel.cl:80/2350/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="214"  tvg-id="3032" tvg-name="ESPN2",ESPN2
+#EXTINF:-1, channel-id="214"  tvg-id="3032" tvg-name="ESPN2",ESPN2
 http://live.entel.cl:80/3032/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="216"  tvg-id="2302" tvg-name="ESP3 ",ESP3 
+#EXTINF:-1, channel-id="216"  tvg-id="2302" tvg-name="ESP3 ",ESP3 
 http://live.entel.cl:80/2302/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="220"  tvg-id="2287" tvg-name="CDF",CDF
+#EXTINF:-1, channel-id="220"  tvg-id="2287" tvg-name="CDF",CDF
 http://live.entel.cl:80/2287/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="221"  tvg-id="2338" tvg-name="ChileTrack",ChileTrack
+#EXTINF:-1, channel-id="221"  tvg-id="2338" tvg-name="ChileTrack",ChileTrack
 http://live.entel.cl:80/2338/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="239"  tvg-id="2320" tvg-name="Fox Sport 2",Fox Sport 2
+#EXTINF:-1, channel-id="239"  tvg-id="2320" tvg-name="Fox Sport 2",Fox Sport 2
 http://live.entel.cl:80/2320/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="240"  tvg-id="2315" tvg-name="Fox Sport 3",Fox Sport 3
+#EXTINF:-1, channel-id="240"  tvg-id="2315" tvg-name="Fox Sport 3",Fox Sport 3
 http://live.entel.cl:80/2315/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="241"  tvg-id="2344" tvg-name="Fox Sport",Fox Sport
+#EXTINF:-1, channel-id="241"  tvg-id="2344" tvg-name="Fox Sport",Fox Sport
 http://live.entel.cl:80/2344/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="242"  tvg-id="2288" tvg-name="CDF P",CDF P
+#EXTINF:-1, channel-id="242"  tvg-id="2288" tvg-name="CDF P",CDF P
 http://live.entel.cl:80/2288/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="232"  tvg-id="2359" tvg-name="CDF HD",CDF HD
+#EXTINF:-1, channel-id="232"  tvg-id="2359" tvg-name="CDF HD",CDF HD
 http://live.entel.cl:80/2359/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="270"  tvg-id="2330" tvg-name="PlayBoy",PlayBoy
+#EXTINF:-1, channel-id="270"  tvg-id="2330" tvg-name="PlayBoy",PlayBoy
 http://live.entel.cl:80/2330/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="271"  tvg-id="2245" tvg-name="Venus",Venus
+#EXTINF:-1, channel-id="271"  tvg-id="2245" tvg-name="Venus",Venus
 http://live.entel.cl:80/2245/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="280"  tvg-id="2262" tvg-name="Fox Series",Fox Series
+#EXTINF:-1, channel-id="280"  tvg-id="2262" tvg-name="Fox Series",Fox Series
 http://live.entel.cl:80/2262/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="283"  tvg-id="2289" tvg-name="Fox Cinema",Fox Cinema
+#EXTINF:-1, channel-id="283"  tvg-id="2289" tvg-name="Fox Cinema",Fox Cinema
 http://live.entel.cl:80/2289/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="286"  tvg-id="2297" tvg-name="Fox Premium Movies",Fox Premium Movies
+#EXTINF:-1, channel-id="286"  tvg-id="2297" tvg-name="Fox Premium Movies",Fox Premium Movies
 http://live.entel.cl:80/2297/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="290"  tvg-id="2299" tvg-name="Fox Action",Fox Action
+#EXTINF:-1, channel-id="290"  tvg-id="2299" tvg-name="Fox Action",Fox Action
 http://live.entel.cl:80/2299/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="291"  tvg-id="2331" tvg-name="Fox Comedy ",Fox Comedy 
+#EXTINF:-1, channel-id="291"  tvg-id="2331" tvg-name="Fox Comedy ",Fox Comedy 
 http://live.entel.cl:80/2331/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="293"  tvg-id="3029" tvg-name="Fox Classics",Fox Classics
+#EXTINF:-1, channel-id="293"  tvg-id="3029" tvg-name="Fox Classics",Fox Classics
 http://live.entel.cl:80/3029/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="296"  tvg-id="2318" tvg-name="Fox Family",Fox Family
+#EXTINF:-1, channel-id="296"  tvg-id="2318" tvg-name="Fox Family",Fox Family
 http://live.entel.cl:80/2318/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="300"  tvg-id="2232" tvg-name="HBO",HBO
+#EXTINF:-1, channel-id="300"  tvg-id="2232" tvg-name="HBO",HBO
 http://live.entel.cl:80/2232/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="301"  tvg-id="2308" tvg-name="HBO2",HBO2
+#EXTINF:-1, channel-id="301"  tvg-id="2308" tvg-name="HBO2",HBO2
 http://live.entel.cl:80/2308/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="302"  tvg-id="2310" tvg-name="HBO Plus O",HBO Plus O
+#EXTINF:-1, channel-id="302"  tvg-id="2310" tvg-name="HBO Plus O",HBO Plus O
 http://live.entel.cl:80/2310/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="303"  tvg-id="2313" tvg-name="HBO Plus E",HBO Plus E
+#EXTINF:-1, channel-id="303"  tvg-id="2313" tvg-name="HBO Plus E",HBO Plus E
 http://live.entel.cl:80/2313/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="305"  tvg-id="2309" tvg-name="HBO Family",HBO Family
+#EXTINF:-1, channel-id="305"  tvg-id="2309" tvg-name="HBO Family",HBO Family
 http://live.entel.cl:80/2309/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="308"  tvg-id="2307" tvg-name="HBO Signature",HBO Signature
+#EXTINF:-1, channel-id="308"  tvg-id="2307" tvg-name="HBO Signature",HBO Signature
 http://live.entel.cl:80/2307/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="311"  tvg-id="2312" tvg-name="MAX",MAX
+#EXTINF:-1, channel-id="311"  tvg-id="2312" tvg-name="MAX",MAX
 http://live.entel.cl:80/2312/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="314"  tvg-id="2311" tvg-name="MAX Prime",MAX Prime
+#EXTINF:-1, channel-id="314"  tvg-id="2311" tvg-name="MAX Prime",MAX Prime
 http://live.entel.cl:80/2311/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
-#EXTINF:0, channel-id="315"  tvg-id="3033" tvg-name="Max Prime",Max Prime
+#EXTINF:-1, channel-id="315"  tvg-id="3033" tvg-name="Max Prime",Max Prime
 http://live.entel.cl:80/3033/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
