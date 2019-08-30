@@ -74,7 +74,7 @@ http://live.entel.cl:80/2348/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
 #EXTINF:-1, channel-id="079"  tvg-id="2306" tvg-name="Investigation Discovery",Investigation Discovery
 http://live.entel.cl:80/2306/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
 #EXTINF:-1, channel-id="081"  tvg-id="2290" tvg-name="Warner",Warner
-http://live.entel.cl:80/2290/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
+http://live.entel.cl:80/2290/vxfmt=dp/playlist.m3u8?device_profile=hls_hlsdrm_verimatrix
 #EXTINF:-1, channel-id="083"  tvg-id="2246" tvg-name="Fox",Fox
 http://live.entel.cl:80/2246/vxfmt=dp/playlist.m3u8?device_profile=vcas_FULL
 #EXTINF:-1, channel-id="085"  tvg-id="2280" tvg-name="Sony",Sony
